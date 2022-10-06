@@ -1,1 +1,2 @@
-Display content list in current directory
+#!/bin/bash
+pwd
