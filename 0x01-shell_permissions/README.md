@@ -1,1 +1,1 @@
-shell permissions ls
+shell permission ls
